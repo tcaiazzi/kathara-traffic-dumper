@@ -1,0 +1,10 @@
+tcpdump -i eth0 -w /shared/H.pcap &
+tcpdump -i eth1 -w /shared/G.pcap &
+tcpdump -i eth2 -w /shared/E.pcap &
+tcpdump -i eth3 -w /shared/A.pcap &
+tcpdump -i eth4 -w /shared/F.pcap &
+tcpdump -i eth5 -w /shared/B.pcap &
+tcpdump -i eth6 -w /shared/I.pcap &
+tcpdump -i eth7 -w /shared/C.pcap &
+tcpdump -i eth8 -w /shared/L.pcap &
+tcpdump -i eth9 -w /shared/D.pcap &
